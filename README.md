@@ -1,8 +1,6 @@
-# B4J
-B4J is a development tool for cross platform desktop and server solutions: https://www.b4x.com/b4j.html
+# JHR Libraries
+Repositorios Java para escritorios MAC, Windows, Linux y Raspberry pi
 
-This repository includes most of B4J internal libraries source code.
+Empresa Ionverse Technology Advance
 
-Currently we do not accept code contributions.
-
-Issues should be posted in the forum: https://www.b4x.com/android/forum/
+Create By Johan Hormaza.
